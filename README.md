@@ -1,2 +1,2 @@
 # cyberhub
-Canadian Blog based on GRAV
+Canadian Blog based on GRAV.
